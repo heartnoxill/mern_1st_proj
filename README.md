@@ -15,9 +15,9 @@ Install npx
 - npm i -g npx
 
 Install React.js
-cd ..
-npx create-react-app client
+- cd ..
+- npx create-react-app client
 
 Install redux
-cd client
-npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material
+- cd client
+- npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material
