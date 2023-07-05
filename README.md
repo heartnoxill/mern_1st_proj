@@ -1,5 +1,7 @@
 # My First MERN Stack Project
 
+Font: https://fonts.google.com/specimen/Rubik?query=rubik
+
 Initial terminal command
 
 - mkdir server
